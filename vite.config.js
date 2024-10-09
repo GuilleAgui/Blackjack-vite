@@ -1,7 +1,5 @@
-
-
 import { defineConfig } from "vite";
 
-export default defineConfig({
-    base: '/Blackjack-vite/',
-});
+export default ({
+    base: '/Blackjack-vite/'
+})
